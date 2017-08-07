@@ -17,3 +17,6 @@ events in the city could be detected via monitoring these data.
 
 ### Dataset
 The dataset contains some riders aggregated on an hourly basis (hour.csv or a daily basis (daily.csv). The dataset was obtained from Capital Bikeshare System( http://capitalbikeshare.com/system-data)
+
+### Notebook 
+The Jupyter notebook (regression-bike-rental-demand) is a step by step guide for building a neural network and predicting bike rentals.
